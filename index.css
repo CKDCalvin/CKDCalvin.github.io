@@ -1,4 +1,7 @@
 html{
   background-color: aqua;
-  align-items: center;
+}
+
+body{
+  text-align: center;
 }
