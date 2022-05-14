@@ -1,12 +1,13 @@
 html{
-  background-color: 'lightest navy';
+  background-color: navy;
 }
 
 body{
   text-align: center;
 }
 
-.end{
+
+.end li{
   padding: 5px;
   display: inline-block;
 }
