@@ -1,9 +1,12 @@
 html{
-  background-color: navy;
+  background-color: 'sky blue';
 }
 
 body{
   text-align: center;
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Times New Roman';
 }
 
 
