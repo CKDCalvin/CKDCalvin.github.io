@@ -1,7 +1,12 @@
 html{
-  background-color: aqua;
+  background-color: 'lightest navy';
 }
 
 body{
   text-align: center;
+}
+
+.End{
+  padding: 5px;
+  display: inline-block;
 }
