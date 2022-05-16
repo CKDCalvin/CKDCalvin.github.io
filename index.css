@@ -10,7 +10,10 @@ body{
   padding: 20px;
 }
 
-
+img{
+  margin: 0 auto;
+border-radius: 50%;
+}
 .end li{
   padding: 5px;
   display: inline-block;
