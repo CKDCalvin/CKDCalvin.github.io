@@ -11,8 +11,6 @@ body{
 }
 
 .part1 img{
-  height: 400px;
-  width: 400px;
   margin: 0 auto;
 border-radius: 50%;
 }
