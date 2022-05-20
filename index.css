@@ -26,3 +26,7 @@ border-radius: 50%;
   padding: 5px;
   display: inline-block;
 }
+.link a{
+  display: center;
+  font-family: monospace;
+}
