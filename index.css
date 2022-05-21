@@ -32,10 +32,12 @@ html{
 }
 
 .part1 img{
-  height: 200px;
-  width: 200px;
+  height: auto;
+  max-width: 200px;
   margin: 0 auto;
-border-radius: 50%;
+border-radius: 10px;
+  border: none;
+  box-sizing: border-box;
 }
 
 .part1 ul{
