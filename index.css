@@ -29,6 +29,10 @@ border-radius: 50%;
   height: 200px;
   width: 200px; 
   margin: 0 auto;
+  padding: 5px;
+}
+.part2 li{
+  padding: 1px;
 }
 .end li{
   padding: 5px;
