@@ -9,13 +9,13 @@ html{
 .header p{
   font-family: monospace;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 40px;
 }
 
 .header h1, #upper h2{
   font-family: monospace;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 50px;
 }
 
 body{
@@ -23,7 +23,7 @@ body{
   font-weight: 400;
   font-size: 14px;
   font-family: sans-serif;
-  padding: 20px;
+  padding: 30px;
   color: #8892b0;
 }
 
@@ -73,5 +73,6 @@ a{
 .link a{
   display: center;
   font-family: monospace;
+  font-size: 30px;
   padding: 15px 0px;
 }
