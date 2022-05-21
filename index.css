@@ -16,10 +16,14 @@ body{
   margin: 0 auto;
 border-radius: 50%;
 }
+
 .part1 ul{
   list-style: none;
 }
 
+.part2 ul{
+  list-style: none;
+}
 .part2 img{
   height: 200px;
   width: 200px; 
