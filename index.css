@@ -20,10 +20,12 @@ border-radius: 50%;
 
 .part1 ul{
   list-style: none;
+  padding: 0px 15px;
 }
 
 .part2 ul{
   list-style: none;
+  padding: 0px 15px;
 }
 .part2 img{
   height: 200px;
@@ -35,7 +37,7 @@ border-radius: 50%;
   padding: 10px 0px;
 }
 .end li{
-  padding: 5px;
+  padding: 5px 5px;
   display: inline-block;
 }
 a{
