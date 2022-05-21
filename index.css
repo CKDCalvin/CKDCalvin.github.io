@@ -47,4 +47,5 @@ a{
 .link a{
   display: center;
   font-family: monospace;
+  padding: 15px 0px;
 }
