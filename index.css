@@ -56,6 +56,9 @@ border-radius: 10px;
 .part2 img{
   height: 200px;
   width: 200px; 
+  box-sizing: border-box;
+  border: none;
+  border-radius: 10px;
   margin: 0 auto;
   padding: 10px 0px;
 }
