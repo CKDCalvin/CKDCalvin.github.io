@@ -12,7 +12,7 @@ html{
   font-size: 20px;
 }
 
-h1, h2{
+.header h1, #upper h2{
   font-family: monospace;
   font-weight: bold;
   font-size: 30px;
