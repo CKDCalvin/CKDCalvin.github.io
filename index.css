@@ -39,9 +39,9 @@ border-radius: 10px;
   border: none;
   box-sizing: border-box;
 }
-@media only screen and (min-width: 300px) and (max-width: 480px){
+@media only screen and (min-width: 400px) and (max-width: 650px){
   .part1 img{
-    max-width: 300px;
+    max-width: 400px;
   }
 }
 
