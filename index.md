@@ -15,9 +15,8 @@
 ### Category 3: Databases
 
 ## Professional Self-Assessment
-
-<code>Course Outcome 1</code>:
-<code>Course Outcome 2</code>:
-<code>Course Outcome 3</code>:
-<code>Course Outcome 4</code>:
-<code>Course Outcome 5</code>:
+- <code>Course Outcome 1</code>:
+- <code>Course Outcome 2</code>:
+- <code>Course Outcome 3</code>:
+- <code>Course Outcome 4</code>:
+- <code>Course Outcome 5</code>:
