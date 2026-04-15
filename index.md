@@ -2,7 +2,7 @@
 title: Calvin Kugonza
 ---
 
-## <center>Computer Science Capstone<center>
+# <center>Computer Science Capstone<center>
 
 ## <center>CS-499 | SNHU<center>
 
