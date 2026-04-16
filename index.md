@@ -2,28 +2,49 @@
 title: Calvin Kugonza
 ---
 
-# <center>Computer Science Capstone<center>
+<div align="center">
 
-## <center>CS-499 | SNHU<center>
+# Computer Science Capstone  
+### CS-499 | Southern New Hampshire University
 
-### CODE REVIEW
+</div>
 
-A code review is an analytical examination of code conducted throughout the development process of an application to identify and reduce errors in code. This practice of reviewing code is important for computer science professionals because it improves accountability among the team. Reviewing code improves quality, reliability, and saves time for future development without any concern for errors in previously implemented code. 
+---
 
-<code> My code review of the planned artifact enhancement: <a href="#">Video</a>.</code>
+## Overview
 
-<code><strong>All three categories are fulfilled using one artifact.</strong></code>
+Welcome to my Computer Science Capstone ePortfolio. This portfolio showcases my growth throughout the Computer Science program at SNHU through the enhancement of a single artifact: the **IT 145 Pet Boarding System**.
 
-### Category 1: Software Engineering and Design
+Originally developed as a Java-based object-oriented program, this artifact has been transformed into a **full-stack web application** using modern technologies, including React, Node.js, Express, and MongoDB. Each section of this portfolio demonstrates my ability to apply key computer science concepts in software engineering, algorithms, and database design.
 
-For category one, I selected the IT 145 Pet Boarding System, originally written in Java. 
-The artifact was enhanced from a static, object-oriented program to a dynamic, full-stack application, incorporating modular design, reusable components, and an improved user interface.
+---
 
-<center>
-  <a href="#"><img src="assets/images/PoshPawsBoardingHomePage_shot.png" height=300 width=700></a>
-</center>
+## Code Review
 
-<code>View the artifact's code and narrative <a href="">here</a></code>
+My development process began with an informal code review, where I analyzed the original artifact, identified limitations, and planned enhancements across three core computer science categories.
+
+🔗 **[Watch Code Review Video](#)**
+
+---
+
+## Artifact Overview
+
+**Artifact:** IT 145 Pet Boarding System  
+**Enhancement Approach:** Single artifact enhanced across all three categories
+
+---
+
+## Software Engineering and Design
+
+The artifact was enhanced from a static, object-oriented Java program into a dynamic full-stack application. This included implementing modular architecture, reusable React components, and a responsive user interface.
+
+<div align="center">
+  <img src="assets/images/PoshPawsBoardingHomePage_shot.png" width="700"/>
+</div>
+
+🔗 **[View Software Engineering Enhancement](./software-engineering/)**
+
+---
 
 ### Category 2: Algorithms and Data Structures
 
