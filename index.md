@@ -46,27 +46,48 @@ The artifact was enhanced from a static, object-oriented Java program into a dyn
 
 ---
 
-### Category 2: Algorithms and Data Structures
+## Algorithms and Data Structures
 
-For category two, I enhanced the algorithm and data structure used in IT 145 Pet Boarding System.
-The artifact was enhanced by implementing search and sort algorithms, efficient data handling, and a suite assignment algorithm.
+This enhancement focused on improving efficiency and functionality through the implementation of algorithms such as reservation searching, sorting, and a suite assignment algorithm for managing pet boarding capacity.
 
-<center>
-  <a href="">Screenshot of the application's reservation search results</a>
-</center>
+<div align="center">
+  <img src="assets/images/ReservationLookupSearchAlg.png" width="700"/>
+</div>
 
-<code>View the artifact's code and narrative <a href="">here</a></code>
+🔗 **[View Algorithms & Data Structures Enhancement](./algorithms/)**
 
-### Category 3: Databases
+---
 
-For category three, I used IT 145 Pet Boarding System.
-This artifact was enhanced from an in-memory application to a dynamic system backed by MongoDB. I also implemented CRUD functionality and integration between the frontend user interface, backend, and database layers.
+## Databases
 
-<center>
-  <a>Screenshot of the application's admin page</a>
-</center>
+The system was enhanced by integrating MongoDB, transforming it from an in-memory application into a persistent full-stack system. CRUD functionality was implemented to allow users and administrators to create, update, and delete reservations.
 
-<code>View artifact's category three narrative and code <a href="">here</a></code>
+<div align="center">
+  <img src="assets/images/AdminDashboardwithReservations.png" width="700"/>
+</div>
+
+🔗 **[View Database Enhancement](./databases/)**
+
+---
+
+## Professional Self-Assessment
+
+My professional self-assessment reflects on my growth throughout the Computer Science program, highlighting my development in software engineering, algorithms, databases, security, and communication.
+
+🔗 **[View Professional Self-Assessment](./self-assessment/)**
+
+---
+
+## Skills Demonstrated
+
+- Full-stack software development (MERN stack)
+- Algorithm design and implementation (search, sort, optimization)
+- Database integration and CRUD operations
+- Responsive UI/UX design
+- API development and client-server communication
+- Debugging, testing, and code refinement
+
+---
 
 ## Professional Self-Assessment
 
