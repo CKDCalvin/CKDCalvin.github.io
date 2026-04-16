@@ -20,7 +20,7 @@ For category one, I selected the IT 145 Pet Boarding System, originally written 
 The artifact was enhanced from a static, object-oriented program to a dynamic, full-stack application, incorporating modular design, reusable components, and an improved user interface.
 
 <center>
-  <a href="#"><img src="assets/images/PoshPawsBoardingHomePage_shot.png" height=250></a>
+  <a href="#"><img src="assets/images/PoshPawsBoardingHomePage_shot.png" height=350 width=450></a>
 </center>
 
 <code>View the artifact's code and narrative <a href="">here</a></code>
