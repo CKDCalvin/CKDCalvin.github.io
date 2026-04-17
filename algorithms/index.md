@@ -1,3 +1,7 @@
+---
+title: Calvin Kugonza
+---
+
 # Algorithms and Data Structures Enhancement
 
 ## Overview
