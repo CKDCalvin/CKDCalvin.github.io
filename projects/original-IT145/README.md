@@ -1,7 +1,3 @@
----
-title: Calvin Kugonza
----
-
 # IT 145 Pet Boarding System (Original Artifact)
 
 ## Overview
