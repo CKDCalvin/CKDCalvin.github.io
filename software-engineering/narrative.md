@@ -1,7 +1,9 @@
 # Software Design and Engineering Narrative
 
 📄 **Download full narrative (Word format):**  
-👉 [Click here to download](../../assets/docs/CS 499 Category One-Software Engineering and Dseign Narrative.docx)
+[Click here to download](https://github.com/CKDCalvin/CKDCalvin.github.io/raw/refs/heads/main/assets/docs/CS%20499%20Category%20One-Software%20Engineering%20and%20Dseign%20Narrative.docx)
+
+👉 [Click here to download](assets/docs/CS 499 Category One-Software Engineering and Dseign Narrative.docx)
 
 ---
 The artifact selected for this enhancement is the IT 145 Pet Boarding System, which was originally developed as an object-oriented Java application earlier in the program. For this milestone, the project was redesigned and enhanced into a full-stack web application using React for the frontend and Node.js with Express for the backend. The enhanced system now includes: a user interface with multiple pages, routing functionality, and a working check-in system that allows users to register and log in. This transformation shifted the artifact from a console-based application to an interactive, web-based system that better reflects modern software development practices.
