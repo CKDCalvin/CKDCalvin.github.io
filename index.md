@@ -74,7 +74,7 @@ The system was enhanced by integrating MongoDB, transforming it from an in-memor
 
 My professional self-assessment reflects on my growth throughout the Computer Science program, highlighting my development in software engineering, algorithms, databases, security, and communication.
 
-🔗 **[View Professional Self-Assessment](./self-assessment/)**
+🔗 **[View Professional Self-Assessment](./self-assessment/Calvin-Self-Assessment.md)**
 
 ---
 
