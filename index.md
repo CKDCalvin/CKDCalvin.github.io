@@ -46,7 +46,7 @@ The following links provide access to both the original artifact and the enhance
 
 ### Original IT 145 Pet Boarding System (Java)
 
-- 🔗 [View Original Project Overview](./projects/original-IT145)
+- 🔗 [View Original Project Overview](https://github.com/CKDCalvin/CKDCalvin.github.io/tree/main/projects/original-IT145)
 - 🔗 [View Original Source Code on GitHub](https://github.com/CKDCalvin/IT-145-PetBoardingSystem)
 
 ---
