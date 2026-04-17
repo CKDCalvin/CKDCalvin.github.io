@@ -40,7 +40,7 @@ The following links provide access to both the original artifact and the enhance
 
 ### Enhanced Full-Stack Application (Posh Paws Boarding)
 
-- 🔗 [Live Application (Netlify)](https://poshpawsboarding.netlify.app/check-in)
+- 🔗 [Live Application (Netlify)](https://poshpawsboarding.netlify.app/)
 - 🔗 [View Project Overview](./projects/enhanced-fullsatck)
 - 🔗 [View Full Source Code on GitHub](https://github.com/CKDCalvin/posh-paws-boarding)
 
