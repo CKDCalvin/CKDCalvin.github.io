@@ -39,7 +39,7 @@ My development process began with an informal code review, where I analyzed the 
 The artifact was enhanced from a static, object-oriented Java program into a dynamic full-stack application. This included implementing modular architecture, reusable React components, and a responsive user interface.
 
 <div align="center">
-  <img src="assets/images/PoshPawsBoardingHomePage_shot.png" width="700"/>
+  <img src="assets/images/PoshPawsHomePage.png" width="700"/>
 </div>
 
 🔗 **[View Software Engineering Enhancement](./software-engineering/)**
@@ -51,7 +51,7 @@ The artifact was enhanced from a static, object-oriented Java program into a dyn
 This enhancement focused on improving efficiency and functionality through the implementation of algorithms such as reservation searching, sorting, and a suite assignment algorithm for managing pet boarding capacity.
 
 <div align="center">
-  <img src="assets/images/ReservationLookupSearchAlg.png" width="700"/>
+  <img src="assets/images/ReservationSearchAlg.png" width="700"/>
 </div>
 
 🔗 **[View Algorithms & Data Structures Enhancement](./algorithms/)**
