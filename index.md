@@ -89,10 +89,6 @@ My professional self-assessment reflects on my growth throughout the Computer Sc
 
 ---
 
----
-
----
-
 ## Course Outcomes Alignment
 
 This portfolio demonstrates the achievement of the five core Computer Science program outcomes through the enhancement of the IT 145 Pet Boarding System.
