@@ -89,10 +89,31 @@ My professional self-assessment reflects on my growth throughout the Computer Sc
 
 ---
 
-## Professional Self-Assessment
+---
 
-- <code>Course Outcome 1</code>:
-- <code>Course Outcome 2</code>:
-- <code>Course Outcome 3</code>:
-- <code>Course Outcome 4</code>:
-- <code>Course Outcome 5</code>:
+---
+
+## Course Outcomes Alignment
+
+This portfolio demonstrates the achievement of the five core Computer Science program outcomes through the enhancement of the IT 145 Pet Boarding System.
+
+### Outcome 1: Collaborative Environments
+I applied collaborative development practices by structuring the application using modular design principles and separating concerns between frontend, backend, and database layers. This approach supports team-based development and scalability.
+
+### Outcome 2: Professional Communication
+This ePortfolio demonstrates my ability to communicate technical concepts clearly through written narratives, organized documentation, and structured presentation of artifacts. Each enhancement is explained clearly for both technical and non-technical audiences.
+
+### Outcome 3: Algorithms and Data Structures
+I designed and implemented algorithms for reservation searching, sorting, and suite assignment. These improvements increased the efficiency and functionality of the system while demonstrating practical application of algorithmic principles.
+
+🔗 [View Algorithms Enhancement](./algorithms/)
+
+### Outcome 4: Software Engineering and Implementation
+I developed a full-stack application using React, Node.js, Express, and MongoDB. This demonstrates my ability to use modern tools and technologies to design and implement a complete software solution.
+
+🔗 [View Software Engineering Enhancement](./software-engineering/)
+
+### Outcome 5: Security Mindset
+I implemented basic security practices like input validation, controlled API access, and structured data handling. These practices help protect user data and ensure more reliable system behavior.
+
+🔗 [View Database Enhancement](./databases/)
