@@ -34,6 +34,23 @@ My development process began with an informal code review, where I analyzed the 
 
 ---
 
+## Project Access
+
+The following links provide access to both the original artifact and the enhanced full-stack application developed throughout this capstone.
+
+### Enhanced Full-Stack Application (Posh Paws Boarding)
+
+- 🔗 [Live Application (Netlify)](https://poshpawsboarding.netlify.app/check-in)
+- 🔗 [View Project Overview](./projects/enhanced-fullsatck)
+- 🔗 [View Full Source Code on GitHub](https://github.com/CKDCalvin/posh-paws-boarding)
+
+### Original IT 145 Pet Boarding System (Java)
+
+- 🔗 [View Original Project Overview](./projects/original-IT145)
+- 🔗 [View Original Source Code on GitHub](https://github.com/CKDCalvin/IT-145-PetBoardingSystem)
+
+---
+
 ## Software Engineering and Design
 
 The artifact was enhanced from a static, object-oriented Java program into a dynamic full-stack application. This included implementing modular architecture, reusable React components, and a responsive user interface.
