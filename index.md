@@ -23,7 +23,7 @@ Originally developed as a Java-based object-oriented program, this artifact has 
 
 My development process began with an informal code review, where I analyzed the original artifact, identified limitations, and planned enhancements across three core computer science categories.
 
-🔗 **[Watch Code Review Video](#)**
+🔗 **[Watch Code Review Video](https://youtu.be/lwxJuWHvOuI)**
 
 ---
 
